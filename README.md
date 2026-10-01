@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/OWNER/orbit-xr-releases/releases/latest/download/Orbit-XR-mac-arm64.dmg"><b>Download for macOS</b></a>
+  <a href="https://github.com/TarasHulka/orbit-xr-releases/releases/latest/download/Orbit-XR-mac-arm64.dmg"><b>Download for macOS</b></a>
   &nbsp;·&nbsp;
   Windows — coming soon
   &nbsp;·&nbsp;
-  <a href="https://github.com/OWNER/orbit-xr-releases/releases/latest">All releases and changes</a>
+  <a href="https://github.com/TarasHulka/orbit-xr-releases/releases">All releases and changes</a>
 </p>
 
 ---
