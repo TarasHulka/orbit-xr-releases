@@ -1,0 +1,11 @@
+name: Rebuild hulkalabs.com
+on:
+  release:
+    types: [published, edited, deleted]
+  # Allows a manual rebuild from the Actions tab.
+  workflow_dispatch:
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - run: curl -fsS -X POST "${{ secrets.CF_DEPLOY_HOOK }}"
